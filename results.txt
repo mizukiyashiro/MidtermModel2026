@@ -1,0 +1,89 @@
+
+===== SENATE =====
+St     Poll   Fund   Exp   Mean  P(D-side)  Favored
+AL        —  -22.5 -18.0  -19.1        0%  Barry Moore
+AK     +2.4   -7.5  +1.0   +0.6       55%  Mary Peltola
+AR        —  -25.5 -18.0  -19.9        0%  Tom Cotton
+CO        —  +22.5 +18.0  +19.1      100%  John Hickenlooper
+DE        —  +26.5 +18.0  +20.1      100%  Chris Coons
+FL     -4.2   -4.0  -9.0   -5.1       21%  Ashley Moody
+GA     +9.4   +8.5  +8.0   +9.0       92%  Jon Ossoff
+ID        —  -31.5 -18.0  -21.4        0%  Jim Risch
+IL        —  +19.5 +18.0  +18.4      100%  Juliana Stratton
+IA     +0.5   -4.5  +0.0   -0.4       47%  Ashley Hinson
+KS     +1.5  -11.5  -3.0   -1.3       40%  Roger Marshall
+KY        —  -22.5 -18.0  -19.1        0%  Andy Barr
+LA        —  -14.5 -16.0  -15.6        1%  Julia Letlow
+ME     +1.3  +12.5  +1.5   +3.0       72%  Troy Jackson
+MA        —  +38.5 +18.0  +23.1      100%  Ed Markey
+MI     +2.0   +7.5  +4.0   +3.3       74%  Abdul El-Sayed
+MN     +3.4  +13.5  +8.0   +5.8       87%  Peggy Flanagan
+MS        —  -17.5 -16.0  -16.4        1%  Cindy Hyde-Smith
+MT        —   -8.5 -15.0  -13.4        2%  Kurt Alme
+NE     -0.0   -5.5  -8.0   -2.4       36%  Pete Ricketts
+NH     +7.2  +11.5  +7.0   +7.8       94%  Chris Pappas
+NJ        —  +18.5 +18.0  +18.1      100%  Cory Booker
+NM        —  +18.5 +17.0  +17.4      100%  Ben Ray Lujan
+NC    +10.9   +5.5  +7.0   +9.3       97%  Roy Cooper
+OH     +5.2   -4.0  +1.5   +3.1       72%  Sherrod Brown
+OK        —  -26.5 -18.0  -20.1        0%  Kevin Hern
+OR        —  +26.5 +18.0  +20.1      100%  Jeff Merkley
+RI        —  +26.5 +18.0  +20.1      100%  Jack Reed
+SC     -1.0  -10.0  -9.0   -4.0       27%  Darline Graham
+SD        —  -25.5 -17.0  -19.1        0%  Mike Rounds
+TN        —  -23.5 -18.0  -19.4        0%  Bill Hagerty
+TX     +3.9   -4.5  +1.0   +2.1       65%  James Talarico
+VA        —  +16.5 +18.0  +17.6      100%  Mark Warner
+WV        —  -37.5 -18.0  -22.9        0%  Shelley Moore Capito
+WY        —  -38.5 -18.0  -23.1        0%  Harriet Hageman
+Median seats  D 50 | I 2 | R 48
+Mean seats    D 49.4 | I 2.4 | R 48.2
+80% interval  D 46-52 | R 45-51
+Most likely D/I/R splits: [(49, 2, 49), (50, 2, 48), (48, 2, 50)] ['10.8%', '10.5%', '9.1%']
+P(Dem caucus >= 51) = 71%   P(50-50) = 11%
+
+===== GOVERNORS =====
+St     Poll   Fund   Exp   Mean  P(D-side)  Favored
+AL        —  -22.5 -18.0  -19.1        0%  Tommy Tuberville
+AK        —   -4.5  +0.5   -0.8       45%  Dave Bronson
+AZ     +9.0   +7.5  +5.0   +8.0       89%  Katie Hobbs
+AR        —  -26.5 -18.0  -20.1        0%  Sarah Huckabee Sanders
+CA        —  +31.5 +18.0  +21.4      100%  Xavier Becerra
+CO        —  +19.5 +16.0  +16.9      100%  Phil Weiser
+CT        —  +27.5 +17.0  +19.6      100%  Ned Lamont
+FL     -1.9   -2.5  -9.0   -3.4       30%  Byron Donalds
+GA     -2.0   +5.5  +0.5   -0.4       47%  Rick Jackson
+HI        —  +37.5 +18.0  +22.9      100%  Josh Green
+ID        —  -32.5 -18.0  -21.6        0%  Brad Little
+IL        —  +23.5 +17.0  +18.6      100%  JB Pritzker
+IA     +7.0   -4.5  +4.0   +4.7       82%  Rob Sand
+KS        —   -8.5  -4.0   -5.1       22%  Ty Masterson
+ME    +11.8  +15.5 +10.0  +12.0       99%  Hannah Pingree
+MD        —  +41.5 +18.0  +23.9      100%  Wes Moore
+MA        —  +39.5 +18.0  +23.4      100%  Maura Healey
+MI     +7.0   +7.5  +5.0   +6.7       85%  Jocelyn Benson
+MN        —  +13.5 +14.0  +13.9       98%  Amy Klobuchar
+NE        —  -16.5 -17.0  -16.9        0%  Jim Pillen
+NV     -1.1   +1.5  -2.5   -1.0       44%  Joe Lombardo
+NH        —   +7.5  -8.0   -4.1       26%  Kelly Ayotte
+NM        —  +15.5 +13.0  +13.6       98%  Deb Haaland
+NY        —  +27.5 +16.0  +18.9      100%  Kathy Hochul
+OH     +8.0   -2.5  -1.0   +4.6       76%  Amy Acton
+OK        —  -26.5 -18.0  -20.1        0%  Mike Mazzei
+OR        —  +27.5  +8.0  +12.9       98%  Tina Kotek
+PA        —   +9.5 +17.0  +15.1       99%  Josh Shapiro
+RI        —  +23.5 +16.0  +17.9      100%  Helena Foulkes
+SC        —   -8.5 -17.0  -14.9        1%  Alan Wilson
+SD        —  -24.5 -17.0  -18.9        0%  Larry Rhoden
+TN        —  -20.5 -18.0  -18.6        0%  Marsha Blackburn
+TX     -2.6   -8.5  -9.0   -4.8       18%  Greg Abbott
+VT        —   -2.5 -18.0  -14.1        1%  Phil Scott
+WI     +2.6   +7.5  +1.5   +3.1       68%  David Crowley
+WY        —  -38.5 -18.0  -23.1        0%  Eric Barlow
+Median seats  D 26 | I 0 | R 24
+Mean seats    D 26.3 | I 0.0 | R 23.7
+80% interval  D 23-29 | R 21-27
+Most likely D/I/R splits: [(26, 0, 24), (27, 0, 23), (25, 0, 25)] ['17.2%', '16.7%', '15.2%']
+
+===== HOUSE =====
+Median D 234 / R 201; 80% interval D 223-244; P(D majority) = 98%
