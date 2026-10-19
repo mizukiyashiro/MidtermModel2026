@@ -59,4 +59,97 @@ My forecast comes from a model that gives every race one number, the expected ma
 
 ## Data sources
 
-Polls collected from public releases reported by Political Wire, Newsweek, Marist, Suffolk, Emerson, YouGov, NYT/Siena, Fox News and others through October 18, 2026. Race ratings and nominees from Wikipedia's 2026 Senate and gubernatorial election pages (Cook, Sabato, Inside Elections, Silver Bulletin, DDHQ, Split Ticket). Partisan lean from the 2025 Cook PVI.
+**Ratings, nominees and partisan lean**
+Wikipedia: 2026 U.S. Senate elections: ratings table (Cook, Sabato, Inside Elections, Silver Bulletin, DDHQ, Split Ticket, Economist, RCP, Fox), nominees, and seats not up
+Wikipedia: 2026 U.S. gubernatorial elections: governor ratings, nominees, and the PVI column
+Cook PVI 2025, state list: I took the PVI values from the Wikipedia tables, which cite this page; I didn’t open it directly
+Political Wire: Sabato down to five Senate toss-ups (Oct 14)
+National environment and House
+Political.org: Silver Bulletin generic ballot at D+8.9 (Oct 8)
+Political Wire: Pew generic ballot D+8 (Oct 10)
+Brookings: Democrats on track to outperform House forecasts
+Denver Gazette: Cook shifts 11 House seats toward Democrats (Oct 16)
+Smoke-Filled Room: map now favors GOP by about 1 point after redistricting
+Senate polls
+
+**Alaska**
+Newsweek: InsiderAdvantage, ASR, NYT/Siena and Trafalgar polls
+Political Wire: Quantus tie (Oct 2)
+Political Wire: ASR (Oct 7)
+
+**Florida**
+Political Wire: Mason-Dixon (Oct 6)
+Political Wire: St. Pete Polls (Oct 8)
+
+**Georgia**
+Ground News: YouGov, Ossoff +10
+FOX 5 Atlanta: InsiderAdvantage, Ossoff +7
+
+**Iowa**
+Political Wire: Suffolk (Oct 7)
+Political Wire: CNN (Oct 8)
+Political Wire: Emerson (Oct 9)
+Political Wire: YouGov (Oct 14)
+Marist Poll: Iowa, October 2026
+Newsweek: NYT/Siena and Quantus polls
+
+**Kansas**
+Political Wire: Global Strategy Group (D) (Oct 2)
+Political Wire: NYT/Siena (Oct 3)
+Political Wire: YouGov (Oct 6)
+Newsweek: InsiderAdvantage and Trafalgar polls
+Fox Baltimore: Emerson, Hamilton +2
+
+**Maine**
+Political Wire: AARP (Oct 1)
+Marist Poll: Maine, October 2026
+Political Wire: Washington Post–Schar (Oct 9)
+Political Wire: Suffolk (Oct 14)
+
+**Michigan**
+Political Wire: Mitchell Research (Oct 5)
+Political Wire: YouGov (Oct 6)
+Political Wire: Quantus (Oct 7)
+
+**Minnesota**
+Political Wire: Morning Consult (Oct 9)
+Political Wire: Star Tribune/Mason-Dixon (Oct 12)
+Political Wire: SurveyUSA (Oct 14)
+USPollingData: Big Data Poll
+
+**Nebraska**
+Political Wire: YouGov (Oct 6)
+Political Wire: NPA (R) (Oct 12)
+Newsweek: Impact Research (D), August
+
+**New Hampshire**
+Political Wire: AARP/St. Anselm (Oct 6)
+Political Wire: YouGov (Oct 6)
+Political Wire: NPA (Oct 16)
+USPollingData: NYT/Siena and UNH
+
+**North Carolina**
+Political Wire: ECU (Oct 8)
+WSOC: WRAL/WSOC SurveyUSA poll
+Elon University Poll
+
+**Ohio**
+Political Wire: CNN (Oct 8)
+NBC4: Suffolk/USA Today, Marist and BGSU polls
+
+**South Carolina**
+Political Wire: InsiderAdvantage (Oct 2)
+
+**Texas**
+Political Wire: Fox News (Oct 1)
+Political Wire: YouGov (Oct 6)
+Political Wire: Guidant (Oct 7)
+Political Wire: Siena/ReconMR (Oct 13)
+
+**Governor Polls:**
+Arizona: Axios: AARP, FOX 10: Noble Predictive, AZFamily: HighGround, USPollingData: all August polls
+Georgia: Political Wire: InsiderAdvantage (Oct 14), WTOC: YouGov, InsiderAdvantage and Rasmussen
+Michigan: Hoodline: Benson +7 (Oct 7)
+Nevada: Political Wire: Noble Predictive (Oct 6), DeFi Rate: Emerson (Sept)
+Wisconsin: Political Wire: YouGov/CFC (Oct 16), TMJ4: Badger Battleground
+Florida (July poll): Florida Phoenix: UNF
